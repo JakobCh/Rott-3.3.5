@@ -1,0 +1,12 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/"   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   xsi:schemaLocation="http://www.blizzard.com/wow/ui/"> 
+   <Script file="DeathKnight.lua"/>
+
+   <!-- Frame to handle all core events -->
+   <Frame name="rott_frame_dk" hidden="true">
+      <Scripts>
+         <OnLoad>
+            DeathKnightonLoad();
+         </OnLoad>
+      </Scripts>
+   </Frame>
+</Ui>

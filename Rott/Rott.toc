@@ -1,0 +1,19 @@
+## Interface: 30305
+## Title: Rott
+## Notes: Rotation bot by JakobCh
+## SavedVariablesPerCharacter: rott_currentProfile
+
+Frame.lua
+Frame.xml
+Rott.lua
+Rott.xml
+Navigation.lua
+Navigation.xml
+DeathKnight.lua
+DeathKnight.xml
+Warlock.lua
+Warlock.xml
+Shaman.lua
+Shaman.xml
+Warrior.lua
+Warrior.xml
